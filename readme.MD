@@ -10,7 +10,7 @@ Hardware: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viw
 
 Beta:
 - SuperStressed: Beta testing.
-- Chance: Emotional support (Chance — 06/11/2023 8:16 PM: "succa my nut", 07/07/2023 5:48 PM: "lofts can suck my whole ass"). Adapted Vikinger's Skeggox stock to fit Alchemist. Did a bunch of work on the positioning of the primingblock bearings.
+- Chance: Emotional support (Chance — 06/11/2023 8:16 PM: "succa my nut", 07/07/2023 5:48 PM: "lofts can suck my whole ass"). Adapted Vikinger's Skeggox stock to fit Alchemist. Did a bunch of work optimizing the positioning of the primingblock bearings.
 - zoomed_out_tahova: Beta testing.
 - Wonderboy: Misc help.
 - Hollebread: Beta testing.
