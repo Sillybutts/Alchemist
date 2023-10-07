@@ -1,5 +1,7 @@
 Alchemist is good, make one lol
 
+This page isn't polished yet, sorry. I'll get around to it some time before the official blaster release :P
+
 
 Hardware: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
 
