@@ -125,7 +125,8 @@ Beta:
 
 **If you are having issues with any of my designs, please let me know.**
 
-**If you wish to print and sell this item, please contact me for licensing. I can be reached via email at iamsillybutts@gmail.com**
+**If you wish to print and sell this item, please contact me for licensing. I can be reached via email at "iamsillybutts@gmail.com".**
+
 **你好！ 我擁有這個設計。 想生產請聯繫我. 你好！ 我拥有这个设计。 如果你想生产，请联系我.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
