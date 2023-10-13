@@ -42,6 +42,11 @@ There are a bunch of variant parts for Alchemist:
 - Four grip styles:
 - - Standard grip, with and without the bottom "shoe" portion.
 - - Lynx-derived grip, with and without the bottom "shoe" portion.
+- Four stock styles:
+- - Skeggox adjustable stock, originally designed by Vikinger, and ported to Alchemist by Chance.
+- - Worker/SBL1.0 Adjustable stock (thanks GavinFuzzy for help with this part).
+- - Fixed non-adjustable stock with buttpads of varying height.
+- - N-Strike Stock Lug.
 - Optional front grip.
 - Magwell panels with or without viewing slots.
 - etc
