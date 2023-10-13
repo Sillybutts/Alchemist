@@ -129,6 +129,7 @@ Beta:
 
 **你好！ 我擁有這個設計。 想生產請聯繫我. 你好！ 我拥有这个设计。 如果你想生产，请联系我.**
 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 **Disclaimer: This is not a toy. This blaster is meant for hobbyists, not children. Blaster must be operated correctly to avoid injury. I am not responsible for any injuries from this blaster. Please use a bright/blaze orange muzzle and barrel cap on this blaster. Consult local laws before building this high powered blaster.**
@@ -142,10 +143,9 @@ Beta:
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
 
-<a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
-
 <a href="https://brandondiaz.me/product/foam-fndry-sillybutts"><img alt="FoamFNDRY Button" style="border-width:0" src="GHimages/FoamFndry%20BrandonDiaz%20Icon.png" height="50" /></a> https://brandondiaz.me/product/foam-fndry-sillybutts AWESOME shirts made in collaboration with Brandon Diaz! 
 
+<a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
 
 
 
