@@ -2,8 +2,102 @@ Alchemist is good, make one lol
 
 This page isn't polished yet, sorry. I'll get around to it some time before the official blaster release :P
 
+# Alchemist
+Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades.
 
-Hardware: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
+<details>
+<summary>Changelog (click this text, it's a dropdown!)</summary>
+
+- Changelog: 10-14-2023: Blaster release.
+  
+</details>
+
+<img src="GHimages/.png" width="500">
+<img src="GHimages/.png" width="500">
+<img src="GHimages/.png" width="500">
+
+
+## Description
+Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades.
+
+
+Firing Demo: 
+
+Blaster Overview: 
+
+Assembly Video: 
+
+Pre-Release Compilation: 
+
+## Reviews
+
+Videos:
+- WIP: WIP
+
+## Optional Parts
+
+There are a bunch of variant parts for Alchemist:
+- Front Ends:
+- - Standard ported front shroud, or "swiss cheesed" front shroud.
+- Four grip styles:
+- - Standard grip, with and without the bottom "shoe" portion.
+- - Lynx-derived grip, with and without the bottom "shoe" portion.
+- Optional front grip.
+- Magwell panels with or without viewing slots.
+- etc
+
+<img src="GHimages/.png" width="500">
+
+Here are some good Picatinny sights if you want some:
+- https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
+- https://www.thingiverse.com/thing:1667830
+- https://www.thingiverse.com/thing:2829229
+- https://www.thingiverse.com/thing:5103083
+
+### Performance:
+As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
+
+Keep in mind that SCARs usually reduce performance a bit.
+
+Expect Alchemist to hit ~20 FPS lower than a TC with an equivalent barrel and spring. Alchemist traded a shorter prime length for a smoother prime, which means there's less air volume to work with.
+
+## Sellers
+
+Hardware is available from these sellers:
+- OutOfDarts: https://outofdarts.com/products/alchemist-hardware-kit
+- - OOD aluminum bar sets: https://outofdarts.com/products/sillybutts-replacement-bolt-arms
+
+- SilverFoxIndustries: WIP
+
+Fully printed/assembled blasters are available from these sellers:
+- OutOfDarts: WIP
+- SilverFoxIndustries: WIP
+
+## Print Info
+
+WIP. Sorry, I still need to update the specs from the beta testing phase.
+
+<img src="GHimages/.png" width="500">
+PUT COLOR GUIDE PIC HERE
+
+## Hardware
+
+Full hardware list: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
+Make sure you have the "RELEASE VERSION" tab selected at the bottom of the page.
+
+The "Body Aluminum Bars" are custom for this blaster. Here is a diagram of the bars if you plan to make your own. 
+<img src="GHimages/.png" width="500">
+There is a printable cutting/drilling jig in the Tools folder of the Alchemist fileset. 
+
+Bars can also be bought directly from OOD here: https://outofdarts.com/products/sillybutts-replacement-bolt-arms?variant=40599008739370
+
+
+## Assembly
+
+Video: 
+
+Full hardware list: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
+Make sure you have the "RELEASE VERSION" tab selected at the bottom of the page.
 
 
 ## Project Contributors
