@@ -25,7 +25,7 @@ Firing Demo:
 
 Blaster Overview: 
 
-Assembly Video: 
+Assembly Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
 
 Pre-Release Compilation: 
 
@@ -94,7 +94,7 @@ Bars can also be bought directly from OOD here: https://outofdarts.com/products/
 
 ## Assembly
 
-Video: 
+Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
 
 Full hardware list: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
 Make sure you have the "RELEASE VERSION" tab selected at the bottom of the page.
