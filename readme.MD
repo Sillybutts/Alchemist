@@ -73,10 +73,32 @@ Fully printed/assembled blasters are available from these sellers:
 
 ## Print Info
 
-WIP. Sorry, I still need to update the specs from the beta testing phase.
+All STLs are exported in their correct print orientations.
 
-<img src="GHimages/.png" width="500">
-PUT COLOR GUIDE PIC HERE
+Black
+- 100% infill, 5 walls: MagwellChin, PlungerRod, NStrikeLug.
+- 10% infill, 5 walls: FixedStock_Buttplate, TriggerGuard.
+- Everything else 20% infill, 5 walls
+- Supports needed for MagwellChin and NStrikeLug. RailA/B/C has built in supports, no slicer supports required.
+- MagwellChin MUST BE PRINTED WITH A BRIM AND SUPPORTS, and with the long bottom area facing the print bed. 
+
+Green
+- 100% infill, 5 walls: EndCap
+- 10% infill, 5 walls: FixedStock_Stock.
+- Everything else 20% infill, 5 walls
+- Supports needed for BarrelShroudFront, BarrelShroudBack.
+- EndCap is intended to print with the back facing the print bed, but it can be printed with the opposite face on the print bed if you enable supports.
+
+Orange
+- 20% infill, 5 walls: FrontGripKeeper, MagRelease, MuzzleNut, Trigger, PrimingBlock.
+- Everything else 100% (full) infill, 5 walls
+- No supports.
+- Muzzle needs to be printed with the front facing the print bed.
+- BarTensioner needs to be printed with the nut-cavity facing up.
+- Brims are very helpful for printing all these orange parts.
+- PrimingBlock has some overhangs, but nothing too awful. DO NOT USE SUPPORTS ON IT.
+
+<img src="GHimages/Alchemist%20Color%20Guide.png" width="500">
 
 ## Hardware
 
@@ -84,7 +106,7 @@ Full hardware list: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQ
 Make sure you have the "RELEASE VERSION" tab selected at the bottom of the page.
 
 The "Body Aluminum Bars" are custom for this blaster. Here is a diagram of the bars if you plan to make your own. 
-<img src="GHimages/.png" width="500">
+<img src="GHimages/Alchemist_Body_Bar_SPEC.PNG" width="500">
 There is a printable cutting/drilling jig in the Tools folder of the Alchemist fileset. 
 
 Bars can also be bought directly from OOD here: https://outofdarts.com/products/sillybutts-replacement-bolt-arms?variant=40599008739370
@@ -168,3 +190,6 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 <img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%207.png" width="500">
 
 <img src="GHimages/Alchemist%20Color%20Guide.png" width="500">
+
+<img src="GHimages/Alchemist_Body_Bar_SPEC.PNG" width="500">
+
