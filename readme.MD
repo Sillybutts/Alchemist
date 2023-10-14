@@ -30,12 +30,13 @@ Assembly Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
 ## "Why would I build this instead of XYZ?"
 
 * It uses ball bearings on the priming grip, and the prime is VERY smooth.
-* There is an (optional) ball detent that locks the priming grip in the forward position, so it doesn't flop around while running. That's an issue with the Talon Claw and SBL.
+* There is an (optional) ball detent that locks the priming grip in the forward position, so it doesn't flop around while running. Flopping is an issue experienced by most pump action springers (Talon Claw, SBL, Lynx, etc etc).
 * One pin and one allen key screw to access the spring, plunger, and ram.
 * The blaster is built on aluminum bars, like a Lynx. Very sturdy.
    * It also has a bar tensioner, which squeezes all the parts together like a Caliburnoid. Best of both worlds.
 * Hair trigger, very quick and snappy.
 * The barrel can be removed and replaced in 10 seconds, toolless.
+   * If you don't care about doing barrel swaps fast, there's also an optional set screw that goes directly into the barrel, for a more permanent attachment.
 * Very smooth magwell with plenty of flare for quick reloading.
 * Several different stock options:
    * Compatible with the SBL/Worker adjustable stock.
