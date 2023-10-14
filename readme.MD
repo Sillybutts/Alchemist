@@ -27,6 +27,36 @@ Pre-Release Compilation: WIP
 
 Assembly Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
 
+## "Why would I build this instead of XYZ?"
+
+* It uses ball bearings on the priming grip, and the prime is VERY smooth.
+* There is an (optional) ball detent that locks the priming grip in the forward position, so it doesn't flop around while running. That's an issue with the Talon Claw and SBL.
+* One pin and one allen key screw to access the spring, plunger, and ram.
+* The blaster is built on aluminum bars, like a Lynx. Very sturdy.
+   * It also has a bar tensioner, which squeezes all the parts together like a Caliburnoid. Best of both worlds.
+* Hair trigger, very quick and snappy.
+* The barrel can be removed and replaced in 10 seconds, toolless.
+* Very smooth magwell with plenty of flare for quick reloading.
+* Several different stock options:
+   * Compatible with the SBL/Worker adjustable stock.
+   * Skeggox stock (adapted from Vikinger) - this is what is pictured in the post.
+   * N-Strike lug.
+   * Fixed, non adjustable printed stock, with different buttplate length options
+   * Or no stock, if you don't want one lol.
+* A bunch of different aesthetic and ergonomic options for the shroud, grip, plunger tube area, and magwell.
+* A SLAB style plunger fits wider Lynx springs, *and* all TC springs. Lots of options.
+* The blaster has a 95mm prime, which is slightly shorter than a SBL, and a good bit shorter than a TC. That allows faster priming.
+* Built in spring guide as the plunger rod.
+* It uses a TC plunger tube, so it can use metal TC tube upgrades.
+   * It also uses TC ramrods, so you can use fancy anodized ones.
+   * The rambase is improved over a TC rambase; it has more screws to grab onto the ram.
+* Very easy printing, with minimal supports.
+* The picatinny rail on top has a big iron sight gutter down the middle, so you can easily aim even without any picatinny irons or a proper sight.
+
+&#x200B;
+
+And probably a lot more. Its a good b
+
 ## Reviews
 
 Videos:
