@@ -81,7 +81,7 @@ There are a bunch of variant parts for Alchemist:
 - Magwell panels with or without viewing slots.
 - etc
 
-<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="500">
+<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="700">
 
 Here are some good Picatinny sights if you want some:
 - https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
