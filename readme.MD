@@ -16,7 +16,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 
 <img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%207.png" width="300">
 
-<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="300">
+<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="500">
 
 
 
@@ -81,7 +81,7 @@ There are a bunch of variant parts for Alchemist:
 - Magwell panels with or without viewing slots.
 - etc
 
-<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="300">
+<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="500">
 
 Here are some good Picatinny sights if you want some:
 - https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
@@ -232,7 +232,7 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 <img src="GHimages/Alchemist%20Color%20Guide.png" width="500">
 
-<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="300">
+<img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="500">
 
 <img src="GHimages/Alchemist_Body_Bar_SPEC.PNG" width="500">
 
