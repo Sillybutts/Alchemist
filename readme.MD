@@ -12,9 +12,8 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
   
 </details>
 
-<img src="GHimages/.png" width="500">
-<img src="GHimages/.png" width="500">
-<img src="GHimages/.png" width="500">
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
+
 
 
 ## Description
@@ -157,3 +156,17 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 
 ## Images
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%202.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%203.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%204.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%205.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%206.png" width="500">
+
+<img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%207.png" width="500">
