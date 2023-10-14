@@ -54,9 +54,7 @@ Assembly Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
 * Very easy printing, with minimal supports.
 * The picatinny rail on top has a big iron sight gutter down the middle, so you can easily aim even without any picatinny irons or a proper sight.
 
-&#x200B;
-
-And probably a lot more. Its a good b
+And more I can't remember at the time of writing. Its a good blaster, build one.
 
 ## Reviews
 
