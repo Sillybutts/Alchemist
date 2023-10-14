@@ -62,7 +62,7 @@ And more I can't remember at the time of writing. Its a good blaster, build one.
 ## Reviews
 
 Videos:
-- WIP: WIP
+None yet, the blaster just released! Give it some time :P
 
 ## User Images
 
