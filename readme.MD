@@ -70,26 +70,25 @@ Here's some awesome builds of Alchemist!
 
 <img src="GHimages/IRL Images/Chance.jpg" width="500">
 
-<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
+<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
 
-<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
+<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+
+<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
 
 <img src="GHimages/IRL Images/SuperStressed 1.jpg" width="500">
 
 <img src="GHimages/IRL Images/SuperStressed 2.png" width="500">
 
-<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
+<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
 
-<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab glow1.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab glow2.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab.jpg" width="500">
-
-<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
-
 
 ## Optional Parts
 
@@ -265,22 +264,22 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 <img src="GHimages/IRL Images/Chance.jpg" width="500">
 
-<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
+<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
 
-<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
+<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+
+<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
 
 <img src="GHimages/IRL Images/SuperStressed 1.jpg" width="500">
 
 <img src="GHimages/IRL Images/SuperStressed 2.png" width="500">
 
-<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
+<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
 
-<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab glow1.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab glow2.jpg" width="500">
 
 <img src="GHimages/IRL Images/Trianglefab.jpg" width="500">
-
-<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
