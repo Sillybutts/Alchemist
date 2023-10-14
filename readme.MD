@@ -175,7 +175,10 @@ The "Body Aluminum Bars" are custom for this blaster. Here is a diagram of the b
 <img src="GHimages/Alchemist_Body_Bar_SPEC.PNG" width="500">
 There is a printable cutting/drilling jig in the Tools folder of the Alchemist fileset. 
 
-Bars can also be bought directly from OOD here: https://outofdarts.com/products/sillybutts-replacement-bolt-arms?variant=40599008739370
+Pre-made bars can also be bought directly from:
+SilverFoxIndustries: https://silverfoxindustries.shop/products/individual-flatbar-replacement?variant=42696345714874
+OutOfDarts: https://outofdarts.com/products/sillybutts-replacement-bolt-arms?variant=40599008739370
+
 
 
 ## Assembly
