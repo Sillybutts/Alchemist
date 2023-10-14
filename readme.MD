@@ -89,6 +89,10 @@ As testing is done, I will update this part of the page with common spring/barre
 
 Keep in mind that SCARs usually reduce performance a bit.
 
+Broadly speaking, expect a reliable and consistent FPS range of 120fps to 260fps, depending on spring and barrel combo. 
+
+Alchemist is compatible with Talon Claw length springs, as well as larger Lynx and Nerf Longshot springs.
+
 Expect Alchemist to hit ~20 FPS lower than a TC with an equivalent barrel and spring. Alchemist traded a shorter prime length for a smoother prime, which means there's less air volume to work with.
 
 ## Sellers
