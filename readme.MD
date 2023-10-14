@@ -1,9 +1,5 @@
-Alchemist is good, make one lol
-
-This page isn't polished yet, sorry. I'll get around to it some time before the official blaster release :P
-
 # Alchemist
-Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades.
+Alchemist is the next step in the evolution of 3d printed pump action springers.
 
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
@@ -170,3 +166,5 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 <img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%206.png" width="500">
 
 <img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%207.png" width="500">
+
+<img src="GHimages/Alchemist%20Color%20Guide.png" width="500">
