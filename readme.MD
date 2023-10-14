@@ -18,12 +18,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 
 <img src="GHimages/Alchemist Pump Action 11 v103 optional parts and variants.png" width="500">
 
-<img src="GHimages/IRL Images/zelstrom 3.png" width="300">
-<img src="GHimages/IRL Images/Tahova Triple.jpg" width="300">
-<img src="GHimages/IRL Images/Tahova Pose.jpg" width="300">
-<img src="GHimages/IRL Images/SuperStressed 1.jpg" width="300">
-<img src="GHimages/IRL Images/SuperStressed 2.png" width="300">
-<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="300">
+<img src="GHimages/IRL Images/zelstrom 3.png" width="300"><img src="GHimages/IRL Images/Tahova Triple.jpg" width="300"><img src="GHimages/IRL Images/Tahova Pose.jpg" width="300"><img src="GHimages/IRL Images/SuperStressed 1.jpg" width="300"><img src="GHimages/IRL Images/SuperStressed 2.png" width="300"><img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="300">
 
 
 ## Description
