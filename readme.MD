@@ -131,7 +131,7 @@ Hardware is available from these sellers:
 - OutOfDarts: https://outofdarts.com/products/alchemist-hardware-kit
 - - OOD aluminum bar sets: https://outofdarts.com/products/sillybutts-replacement-bolt-arms
 
-- SilverFoxIndustries: WIP
+- SilverFoxIndustries: https://silverfoxindustries.shop/products/alchemist-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
 - OutOfDarts: WIP
