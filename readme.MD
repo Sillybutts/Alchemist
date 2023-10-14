@@ -64,6 +64,33 @@ And more I can't remember at the time of writing. Its a good blaster, build one.
 Videos:
 - WIP: WIP
 
+## User Images
+
+Here's some awesome builds of Alchemist!
+
+<img src="GHimages/IRL Images/Chance.jpg" width="500">
+
+<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
+
+<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
+
+<img src="GHimages/IRL Images/SuperStressed 1.jpg" width="500">
+
+<img src="GHimages/IRL Images/SuperStressed 2.png" width="500">
+
+<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
+
+<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab glow1.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab glow2.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab.jpg" width="500">
+
+<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
+
+
 ## Optional Parts
 
 There are a bunch of variant parts for Alchemist:
@@ -236,3 +263,24 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 <img src="GHimages/Alchemist_Body_Bar_SPEC.PNG" width="500">
 
+<img src="GHimages/IRL Images/Chance.jpg" width="500">
+
+<img src="GHimages/IRL Images/Hollebread Pose.jpg" width="500">
+
+<img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="500">
+
+<img src="GHimages/IRL Images/SuperStressed 1.jpg" width="500">
+
+<img src="GHimages/IRL Images/SuperStressed 2.png" width="500">
+
+<img src="GHimages/IRL Images/Tahova Pose.jpg" width="500">
+
+<img src="GHimages/IRL Images/Tahova Triple.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab glow1.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab glow2.jpg" width="500">
+
+<img src="GHimages/IRL Images/Trianglefab.jpg" width="500">
+
+<img src="GHimages/IRL Images/zelstrom 3.png" width="500">
