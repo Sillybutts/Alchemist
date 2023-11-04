@@ -50,9 +50,9 @@ Assembly Video: https://youtu.be/UOdZIeP3myw
 * A SLAB style plunger fits wider Lynx springs, *and* all TC springs. Lots of options.
 * The blaster has a 95mm prime, which is slightly shorter than a SBL, and a good bit shorter than a TC. That allows faster priming.
 * Built in spring guide as the plunger rod.
-* It uses a TC plunger tube, so it can use metal TC tube upgrades.
-   * It also uses TC ramrods, so you can use fancy anodized ones.
-   * The rambase is improved over a TC rambase; it has more screws to grab onto the ram.
+* It uses a Skewer plunger tube, so it can use metal Skewer plunger tube upgrades.
+* It also uses TC ramrods, so you can use fancy anodized ones.
+* The rambase is improved over a TC rambase; it has more screws to grab onto the ram.
 * Very easy printing, with minimal supports.
 * The picatinny rail on top has a big iron sight gutter down the middle, so you can easily aim even without any picatinny irons or a proper sight.
 
