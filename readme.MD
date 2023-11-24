@@ -138,7 +138,7 @@ Hardware is available from these sellers:
 
 Fully printed/assembled blasters are available from these sellers:
 - OutOfDarts: WIP
-- SilverFoxIndustries: WIP
+- SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/the-alchemist-by-sillybutts
 
 ## Print Info
 
