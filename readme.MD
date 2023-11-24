@@ -18,6 +18,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 
 <img src="GHimages/IRL Images/OOD_Alchemist_build.jpg" width="300"><img src="GHimages/IRL Images/Tahova Triple.jpg" width="300"><img src="GHimages/IRL Images/Tahova Pose.jpg" width="300"><img src="GHimages/IRL Images/SuperStressed 1.jpg" width="300"><img src="GHimages/IRL Images/SuperStressed 2.png" width="300"><img src="GHimages/IRL Images/zelstrom 3.png" width="300">
 
+<img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
 
 ## Description
 Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades.
@@ -57,6 +58,8 @@ Assembly Video: https://youtu.be/UOdZIeP3myw
 * The picatinny rail on top has a big iron sight gutter down the middle, so you can easily aim even without any picatinny irons or a proper sight.
 
 And more I can't remember at the time of writing. Its a good blaster, build one.
+
+<img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
 
 ## Reviews
 
@@ -245,6 +248,8 @@ https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y st
 
 
 ## Images
+
+<img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
 
 <img src="GHimages/Alchemist%20Pump%20Action%2011%20for%20pictures%20v2%201.png" width="500">
 
