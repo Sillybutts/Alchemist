@@ -21,7 +21,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 <img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
 
 ## Description
-Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades.
+Alchemist is the next step in the evolution of 3d printed pump action springers. Alchemist is built like a tank, has a butter smooth priming and firing feel, and is heavily customizable with alternative parts and upgrades. 
 
 
 Firing Demo & Blaster Overview: https://www.youtube.com/watch?v=2bPMUlzL2F4
