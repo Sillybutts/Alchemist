@@ -64,7 +64,7 @@ And more I can't remember at the time of writing. Its a good blaster, build one.
 
 ## If you like what I do, please consider supporting me!
 
-**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+**I don't charge for my files! If you want to help offset prototyping and filament costs, please check out the links below:**
 
 <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
 https://www.patreon.com/sillybutts Monthly donations
