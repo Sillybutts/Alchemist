@@ -30,15 +30,6 @@ Pre-Release Compilation: https://youtu.be/aXrQAO-OECE
 
 Assembly Video: https://youtu.be/UOdZIeP3myw
 
-## If you like what I do, please consider supporting me!
-
-**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
-
-<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
-https://www.patreon.com/sillybutts Monthly donations
-
-<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
-https://www.buymeacoffee.com/sillybutts One-time donations
 
 ## "Why would I build this instead of XYZ?"
 
@@ -70,6 +61,16 @@ https://www.buymeacoffee.com/sillybutts One-time donations
 And more I can't remember at the time of writing. Its a good blaster, build one.
 
 <img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
+
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
+https://www.patreon.com/sillybutts Monthly donations
+
+<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
+https://www.buymeacoffee.com/sillybutts One-time donations
 
 ## Reviews
 
