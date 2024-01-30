@@ -62,9 +62,9 @@ And more I can't remember at the time of writing. Its a good blaster, build one.
 
 <img src="GHimages/Chance%20Alchemist%20Turntable%20Gif.gif" width="500">
 
-## If you like what I do, please consider supporting me! I don't charge for my files! 
+## I don't charge for my files, please consider supporting me! 
 
-**If you enjoy the stuff I make, please consider donating via Patreon or BuyMeACoffee. Filament and prototyping stuff costs a lot. By donating, I can make more cool stuff for everyone to enjoy! Thanks!**
+**If you enjoy the stuff I make, please consider donating via Patreon or BuyMeACoffee. Filament and prototyping stuff costs a lot! By donating, I can make more cool stuff for everyone to enjoy. Thanks!**
 
 <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> 
 https://www.patreon.com/sillybutts Monthly donations
