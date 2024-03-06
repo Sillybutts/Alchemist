@@ -15,6 +15,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 - - Added two pins to the back of the Skeggox picatinny to reinforce it. The pins go into new holes in the Skeggox PTback. 
 - - Extended the sear spring a little bit more via a new grip print. Should improve catch reliability. 
 - - Chamfered the front bottom edges of the grip panels to better clear the mag release. (same for the Lynx-grip version's grip panels). 
+- - Tightened the ball detent hole by a hair. 
 
   
 </details>
