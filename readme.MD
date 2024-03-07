@@ -152,6 +152,10 @@ Alchemist is compatible with Talon Claw length springs, as well as larger Lynx a
 
 Expect Alchemist to hit ~20 FPS lower than a TC with an equivalent barrel and spring. Alchemist traded a shorter prime length for a smoother prime, which means there's less air volume to work with.
 
+FPS with spring and barrel combos from users:
+- 
+- 
+
 ## Sellers
 
 Hardware is available from these sellers:
@@ -161,7 +165,7 @@ Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/products/alchemist-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- OutOfDarts: WIP
+- OutOfDarts: https://outofdarts.com/products/alchemist-fully-assembled-blaster
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/designs-by-sillybutts/products/the-alchemist-by-sillybutts
 
 ## Print Info
