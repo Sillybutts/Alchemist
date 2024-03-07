@@ -220,6 +220,10 @@ Pre-made bars can also be bought directly from:
 ## Assembly
 
 Video: https://youtu.be/UOdZIeP3myw?si=pLHplAR6F4LWGuP2
+Written: https://outofdarts.com/blogs/news/sillybutts-alchemist-build-guide
+
+OOD Assembly Video: https://www.youtube.com/watch?v=4wVVx7PlVZM
+
 
 Full hardware list: https://docs.google.com/spreadsheets/d/1YDkzYdij77of0HTidGjQzjRrs53viwXQVmcyhZj8VQ8/edit?usp=sharing
 Make sure you have the "RELEASE VERSION" tab selected at the bottom of the page.
