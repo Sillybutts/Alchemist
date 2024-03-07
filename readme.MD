@@ -20,7 +20,6 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 - - Tweaked the MagwellBack to have more mag release clearance.
 - - Added a TOP marking to the top of the trigger.
 - - Extended the part of the trigger that touches the sear by a little bit to remove some slop.
-- - Moved the back spring rest in the PTback backward a few mm to improve catching with slightly oversized springs.
 
   
 </details>
