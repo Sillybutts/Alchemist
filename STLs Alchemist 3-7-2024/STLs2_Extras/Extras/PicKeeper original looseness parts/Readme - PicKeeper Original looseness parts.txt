@@ -1,0 +1,1 @@
+These parts are pre-3/7/2024 update. They have the original "looser" sizing of the Picatinny Keeper and surrounding parts.
