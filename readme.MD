@@ -5,7 +5,7 @@ Alchemist is the next step in the evolution of 3d printed pump action springers.
 <summary>Changelog (click this text, it's a dropdown!)</summary>
 
 - Changelog: 10-14-2023: Blaster release.
-- Changelog: march???-2024: A bunch of updates. 
+- Changelog: 3-7-2024: A bunch of updates. 
 - - Updated the sear and the plunger rod to be more wear-resistant and smoother to prime. Both these parts can be installed in existing Alchemists, you just need to take off the stock and install the sear from behind the PTback. The new plunger rod and sear are marked with 'V2' on the side.
 - - Updated the PTback and Skeggox PTback to have space to install the new style of sear from the front without stock disassembly in the future. 
 - - Updated the Skeggox PTback to have more space for the head of the large top bolt, and more space for the screwdriver. 
