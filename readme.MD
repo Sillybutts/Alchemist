@@ -186,7 +186,7 @@ Green
 - 100% infill, 5 walls: EndCap
 - 10% infill, 5 walls: FixedStock_Stock.
 - Everything else 20% infill, 5 walls
-- Supports needed for BarrelShroudFront, BarrelShroudBack.
+- Supports needed for BarrelShroudFront, BarrelShroudBack, and PTfront.
 - EndCap is intended to print with the back facing the print bed, but it can be printed with the opposite face on the print bed if you enable supports.
 
 Orange
