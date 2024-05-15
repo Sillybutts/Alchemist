@@ -91,7 +91,10 @@ https://www.buymeacoffee.com/sillybutts One-time donations
 ## Reviews
 
 Videos:
-None yet, the blaster just released! Give it some time :P
+- Bradley Phillips: https://www.youtube.com/watch?v=nSymhz6XNWQ
+- DrFlux: https://www.youtube.com/watch?v=KqOwWXTx2OE
+- OutOfDarts: https://www.youtube.com/watch?v=WnXajnx6g8U
+- SuperStressed: https://www.youtube.com/watch?v=OPx1uPWO52A
 
 ## User Images
 
@@ -155,9 +158,6 @@ Alchemist is compatible with Talon Claw length springs, as well as larger Lynx a
 
 Expect Alchemist to hit ~20 FPS lower than a TC with an equivalent barrel and spring. Alchemist traded a shorter prime length for a smoother prime, which means there's less air volume to work with.
 
-FPS with spring and barrel combos from users:
-- 
-- 
 
 ## Sellers
 
